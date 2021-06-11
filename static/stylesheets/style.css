@@ -1,13 +1,14 @@
-#pierwszy{
+#pierwszy {
     position: fixed;
     left: 25%;
     top: 30%;
-    background-color: aquamarine;
-    height: 200px;
+    background-color: rgb(160, 94, 94);
+    height: 900px;
     margin: 0 auto;
     width: 700px;
 }
-.dark{
+
+.dark {
     background-color: rgb(34, 31, 31);
     /* border: rgb(211, 20, 20) solid 3px; */
     /* border-radius: 25%; */
@@ -15,7 +16,7 @@
     padding: 3%;
 }
 
-.light{
+.light {
     background-color: rgb(255, 253, 220);
     /* border: rgb(211, 20, 20) solid 3px; */
     /* border-radius: 25%; */
